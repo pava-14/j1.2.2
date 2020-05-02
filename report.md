@@ -15,4 +15,7 @@
 
 ## Общие рекомендации
 
-Использовать форматированный вывод итогового значения: System.out.format("totalBonus = %.1f%n", totalBonus);
+Использовать форматированный вывод итогового значения:
+
+    System.out.format("totalBonus = %.1f%n", totalBonus);
+    
